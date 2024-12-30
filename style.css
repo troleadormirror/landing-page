@@ -1,0 +1,36 @@
+.header,
+.subheader{
+    display: flex;
+    margin: 20px 80px;
+}
+.headers{
+    background-color: #1f2937;
+   
+    
+}
+.header-link,
+.subtitle{
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.header{
+    
+    justify-content: space-between;
+}
+.header-link {
+    display: flex;
+    gap: 20px;
+    
+}
+ul{
+    list-style-type: none;
+}
+.rewind{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.subheader{
+    justify-content: space-between;
+}
